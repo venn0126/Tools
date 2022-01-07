@@ -80,4 +80,4 @@ App版本
 
 ## 后续
 
-如有任何问题，请联系`weiniu@soho-inc.com`
+如有任何问题，请联系`weiniu@sohu-inc.com`
